@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+* {
+    background-color: magenta;
+}
+
+main{
+    background-color: violet;
+    width: 80%;
+    margin-left: 10%;
+
+}
+
+#foto{
+    float: right;
+}
+
+#textprac{
+    float: left;
+    font-size: 50px;
+}
+p{
+    float: left;
+    width: 50%;
+}
+
+#zamm{
+    font-size: 25px;
+}
+#zamm img{
+    width: 50%;
+    height: 500px;
+}
+
+h1, h2{
+    text-align: center;
+    font-family: 'Michroma', sans-serif;
+}
+
+#osoba{
+    float: left;
+}
+
+#carhome{
+    font-size: 100px;
+}
+
+img{
+    width: 80%;
+    height: 500px;
+}
+
+a {
+    background-size: cover;
+    width: 100%;
+    font-size: 2rem;
+    float: left;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#pracownicy{
+    background-image: url(
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Red_flag.svg/800px-Red_flag.svg.png');
+}
+
+#zamowienia{
+    background-image: url(
+        'http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcR4sfIrcBdp7lRdrpD5aHU6GgbT7ketCDkZsED-ft1sahoaK2-XlUPLgBcD7sBoBAlSqFV9c8k9Z-I3137pIIQ');
+}
+
+#pozwolenia{
+    background-image: url(
+        'https://obiektowe.tarkett.pl/media/img/M/TH_3917013_3707013_3708013_3912013_3914013_800_800.jpg');
+}
